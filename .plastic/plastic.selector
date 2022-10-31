@@ -1,0 +1,4 @@
+repository "project_1@wigsarehalfprice@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
